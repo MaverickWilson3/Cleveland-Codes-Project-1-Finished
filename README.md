@@ -2,7 +2,7 @@
 Hello everyone! This was my first coding project. 
 I was asked to complete a number of comprehensive tasks.
 This project took a while to complete because I had to figure out how to complete the steps by myself. 
-The internet hecame my best friend. 
+The internet became my best friend. 
 I gained much information from websites like w3schools.com, Youtube, and Google.
 A difficult challenge I faced was completing task #9 "Adding a JavaScript alert pop up so that when you click the X to delete a task, a pop message says "Are you sure you want to delete this task?"
 This was hard to complete because everytime I would put in the code for an alert, my program would not work. 
